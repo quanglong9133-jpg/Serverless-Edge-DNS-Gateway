@@ -430,7 +430,6 @@
 11e2540739d7fbea1ab8f9aa7a107648.com
 11g1ip22h.de
 11nux.com
-11policy.net
 11rhol0ni.com
 11ssq.com
 11vmzjiup.com
@@ -1033,6 +1032,7 @@
 2345apicode.dftoutiao.com
 2345daohang.com
 234doo.com
+2370245.misitiohostgator.com
 23cox7hu4.com
 23e56badabd13.shop
 23hssicm9.de
@@ -3983,6 +3983,7 @@ a1hgh.com
 a1w3m3e3.aacdn.net
 a1webstrategy.com
 a2-analytics.xyz
+a2-ws-analytics-pr.azurewebsites.net
 a2.adform.net
 a2.americasavingsexperts.com
 a2.arabsex1.com
@@ -10045,6 +10046,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11109,6 +11111,7 @@ ads5.truecaller.com
 ads5.virtual-nights.com
 ads6-adnow.com
 ads7-adnow.com
+ads724.com
 ads8.fpt.vn
 adsadmin.corusradionetwork.com
 adsadminister.com
@@ -11424,6 +11427,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15025,8 +15029,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -15956,6 +15958,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -21214,6 +21217,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -45724,7 +45728,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -46281,7 +46284,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -58491,7 +58493,6 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -58499,9 +58500,7 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -61802,7 +61801,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -101375,6 +101373,7 @@ mfcewkrob.com
 mfdaudubon.com
 mfdgzjlhrvtnw.space
 mfegestaocookies.cloud.itau.com.br
+mff.fairconstruction.com
 mff.messefrankfurt.com
 mffbfzqfrpoir.store
 mffjt.nuethix.com
@@ -119277,6 +119276,7 @@ platform.linkedin.com
 platform.loyaltylion.com
 platform.pubadx.one
 platform.pubfuture.com
+platform.sharethis.com
 platform.tumblr.com
 platform.wondershare.com
 platform.yieldlove.com
@@ -120334,6 +120334,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -133598,6 +133599,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -140516,6 +140518,7 @@ server.windheure.com
 server.windriverchimes.com
 server.winsonsglobal.com
 server.winyou.me
+server.wizardacademybd.com
 server.wolflube.com
 server.woodbricksbd.com
 server.woodprint.com.br
@@ -155041,7 +155044,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -157711,7 +157714,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -157846,7 +157848,6 @@ sst.skatebootique.com
 sst.skatenaopara.com
 sst.skattebetalerne.dk
 sst.skilltopia.co.uk
-sst.skinculture.bg
 sst.skindesignlondon.com
 sst.skiny.com
 sst.skyig-strategies.com
@@ -163205,6 +163206,7 @@ stats.gopikrishna.dev
 stats.govx.com
 stats.grafana.org
 stats.graitec.net
+stats.greatlakesdesign.co
 stats.greenparty.org.uk
 stats.gridwork.co
 stats.gruporeforma.com
@@ -189440,7 +189442,6 @@ wtmxfcptueyoz.store
 wtnj.worldnow.com
 wtoredir.com
 wtoujbtnafmds.online
-wtp101.com
 wtqptl.taksimpazar.com
 wtr-digital-analytics.ew.r.appspot.com
 wtradv.market.xiaomi.com
@@ -189763,6 +189764,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
