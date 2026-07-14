@@ -1213,6 +1213,7 @@
 2ec2f887981228.click
 2ee9804d02.com
 2euqnxt25.com
+2explore.com
 2f0bf9baae.5dede791d0.com
 2f3747e327.com
 2f39cda975ed215b82b0fdddff2aa12841809c26f77aeec57dc7a93e.com
@@ -10030,7 +10031,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11412,6 +11412,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15015,7 +15016,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -15945,7 +15946,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17712,6 +17712,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -21210,6 +21211,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -33135,6 +33137,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -45779,6 +45782,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -56427,6 +56431,7 @@ esm1.net
 esmic.com
 esmzlhblkqsks.site
 esnfublender.com
+esofco.gsmbutik.ru
 esogk.frannegolde.com
 esomniture.com
 esoterictools.com
@@ -68468,6 +68473,7 @@ gtm.gioiapura.de
 gtm.gioiapura.fr
 gtm.gioiapura.it
 gtm.gioielleriacasella.com
+gtm.giselesabadini.com.br
 gtm.gisellekids.com.br
 gtm.giulianaflores.com.br
 gtm.glaudias.com.br
@@ -72058,7 +72064,6 @@ hdns.ksyun.com
 hdnse.newtonbaby.com
 hdpaaaidikjlf.site
 hdppc.com
-hdqtevaaenn.com
 hdrandall.com
 hdrctfcvghgvq.site
 hdrjnmjbqlerc.site
@@ -73595,7 +73600,6 @@ hosting.gemius.hu
 hosting.sproutbuilder.com
 hostingcloud.racing
 hostip.info
-hostiran.name
 hostiserver.com
 hostnetadv.site
 hosts.driver-analytics-web-service.azurewebsites.net
@@ -82135,7 +82139,6 @@ js.mybidadm.com
 js.natsdk.com
 js.newrutor.eu.org
 js.newsmobile.co.kr
-js.nkrffokcf.com
 js.nyt.com
 js.oh100.com
 js.onclckbnr.com
@@ -83038,6 +83041,7 @@ karisma.evergage.com
 karma.mdpcdn.com
 karmaext.click
 karnameh-shiraz.com
+karnslawfirm.com
 karo.karomallonline.com
 karrot-pixel.business.daangn.com
 kartinka.com.ua
@@ -86843,6 +86847,7 @@ limzizffmrkkc.online
 linaloecharms.com
 lindalastattack.com
 lindychat.com
+line-cms.ru
 line-e.com
 line1-log.biligame.net
 line3-adscore-api.biligame.net
@@ -94098,6 +94103,7 @@ lpaitrekoe.com
 lpalartra.com
 lparket.com
 lparnaro.com
+lpay.ru
 lpbhnv.nbcbayarea.com
 lpbhnv.nbcboston.com
 lpbhnv.nbcchicago.com
@@ -109581,6 +109587,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -120634,6 +120641,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -133405,7 +133413,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -138127,6 +138134,7 @@ seobloger.ru
 seoclarity.evergage.com
 seoclkag.com
 seodatamanage.com
+seogift.ru
 seogreat.net
 seomaster.com.br
 seomonitor.ro
@@ -140413,7 +140421,6 @@ server.sabnet.com.br
 server.sabsantrend.com
 server.sacariafbatista.com.br
 server.sadervubon.com
-server.safiaagro.com
 server.safukidszone.com
 server.sagiswim.com
 server.sahazlife.com
@@ -145581,7 +145588,6 @@ smart-ip.net
 smart-mining.net
 smart-pixl.com
 smart-placements-sdk.ex.co
-smart-redirecting.com
 smart-traffik.com
 smart-traffik.io
 smart-tv-data.com
@@ -147022,7 +147028,6 @@ smetrics.filtron.eu
 smetrics.finance-magazin.de
 smetrics.finance.audifs.com
 smetrics.finance.vwcredit.com
-smetrics.financing.vwfinance.ca
 smetrics.findomestic.it
 smetrics.fingerhut.com
 smetrics.finishline.com
@@ -155426,6 +155431,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -161101,7 +161107,6 @@ stape.meuslide.com
 stape.meusmoveisbr.com
 stape.meusoroban.com.br
 stape.mgudrunconfeccoes.com.br
-stape.miaular.com
 stape.micaminodefe.com
 stape.michaelpremia.com
 stape.michellidutra.com
@@ -170073,7 +170078,6 @@ tefcwqpuq.com
 teflonmalie.com
 tegmentlettrinclue.cfd
 tehmb.etrendygo.com
-tehno-politen.ru
 teigwaren.silikonbackform.com
 teijgy.herveleger.com
 teimyesrhvruc.space
@@ -170833,6 +170837,7 @@ tghigvud.com
 tghqq.trywellbe.pl
 tgi2.tracegains.com
 tgidil.joyu.co.kr
+tginspections.com
 tgirgs.flinders.nl
 tgjonodnifuxu.online
 tgkft.mindfulsouls.com
@@ -182031,6 +182036,7 @@ usls-uaa.locknewslab.com
 usmajesticrake.com
 usmattress.pxf.io
 usmetric.rediff.com
+usmilitarylawyer.com
 usmivka.smilepatchesbg.com
 usneahouse.cfd
 usnotice.wofdsp.com
@@ -183282,6 +183288,8 @@ valis-cpx.jp
 valkirum.com
 vallesalimbene.org
 valleyarmiessunflower.com
+valleyhouse.com
+valleyhousegallery.com
 valleyscounterfeit.com
 valor.bet
 valp.atm.youku.com
@@ -190217,6 +190225,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -195737,6 +195746,7 @@ youtubepre.com
 youtuber-cash.buzz
 youtubesave.org
 youtucams.com
+youtuhe.biz
 youwantwork.com
 youwardplurals.cyou
 youweepingt.org
@@ -196370,6 +196380,7 @@ z4xq.flareon.click
 z5.cnzz.com
 z5g022gc.xyz
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
