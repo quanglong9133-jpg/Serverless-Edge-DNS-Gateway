@@ -15014,6 +15014,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -15943,7 +15944,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -21208,7 +21208,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21345,6 +21344,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22207,6 +22207,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27113,7 +27114,6 @@ bimongtrowman.com
 bimouecctgacs.store
 bimtrackapp.co
 bin-layer.de
-bin-layer.ru
 bin-tds.site
 bin.pol.social
 binance-kefu.com
@@ -45777,7 +45777,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -48802,7 +48801,6 @@ devourstrilium.com
 devs-data.hiaiabc.com
 devs.data.mob.com
 devtizer.ru
-devtracking.risk.lexisnexis.com
 devuba.xyz
 dew9ckzjyt2gn.cloudfront.net
 dewapush.com
@@ -55713,7 +55711,6 @@ enigmaticvoyage.com
 eniobs.moncler.com
 eniont.xyz
 enityvopmweej.site
-eniyibonusal.com
 enj.mybluehost.me
 enjoyablefax.com
 enjoyads.videoshowapp.com
@@ -58607,7 +58604,6 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -58615,9 +58611,7 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -61938,7 +61932,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -65154,7 +65147,6 @@ globalmsg.facemojikeyboard.com
 globaloffers.link
 globalrtb.com
 globalsiteanalytics.com
-globalsolutions.risk.lexisnexis.com
 globalspec.demdex.net
 globalstars.ru
 globalstats.ekmsecure.com
@@ -71549,7 +71541,6 @@ hao549.com
 hao916.com
 haokan.mobi
 haokoubei.top
-haole1xx.top
 haoma.baidu.com
 haomahao.com
 haosanshui.com
@@ -85670,7 +85661,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -90115,6 +90105,7 @@ load.road.minihippo.com.au
 load.road.rugsforgood.com.au
 load.road.shakethatweight.co.uk
 load.road.thematernitymarket.com.au
+load.roop.nettenshop.nl
 load.rover.pwrpep.com
 load.royalvapestore.com
 load.rpbc1.smartblinds.co.uk
@@ -125168,7 +125159,6 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
-qxplus.ru
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
 qxqsrwtzxbpae.store
@@ -136496,6 +136486,7 @@ se.news.johnstonandmurphy-email.com
 se.rfvtgbyhn.com
 se.smaato.net
 se.themoneytizer.com
+se05.biz
 se07.biz
 sea-u.openx.net
 sea.napi.ucweb.com
@@ -140386,7 +140377,6 @@ server.sabnet.com.br
 server.sabsantrend.com
 server.sacariafbatista.com.br
 server.sadervubon.com
-server.safiaagro.com
 server.safukidszone.com
 server.sagiswim.com
 server.sahazlife.com
@@ -150544,8 +150534,6 @@ solutions.oshaeducationcenter.com
 solutions.peco-energy.com
 solutions.redwingshoes.com
 solutions.refinitiv.cn
-solutions.risk.lexisnexis.co.uk
-solutions.risk.lexisnexis.com
 solutions.saashr.com
 solutions.sabic.com
 solutions.sertifi.com
@@ -150562,7 +150550,6 @@ solutions.unysonlogistics.com
 solutions.vasque.com
 solutions.visaacceptance.com
 solutions.wellspring.com
-solutions2.risk.lexisnexis.com
 solutionsadultes.com
 solutusshrewdy.cyou
 soluz.luxskin.co
@@ -153799,7 +153786,6 @@ ss.loveanddivine.com
 ss.lovelymeds.com
 ss.ltaeducation.com
 ss.luckyjackgear.com
-ss.luliforbabies.com.br
 ss.lumaglasses.com
 ss.lumenface.com
 ss.lumeramadrid.es
@@ -155402,7 +155388,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -158071,7 +158057,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -164898,7 +164883,6 @@ stravito.com
 strawberry.basf.ca
 strawberry.basf.com
 strawberry.basf.us
-strawberryy14.top
 strawburn.com
 strayerchordal.com
 strbh.com
@@ -173477,7 +173461,6 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -176488,9 +176471,6 @@ tracking.retailrocket.ru
 tracking.revoicer.com
 tracking.ringieraxelspringer.tech
 tracking.rinoebastel.com
-tracking.risk.lexisnexis.co.jp
-tracking.risk.lexisnexis.co.uk
-tracking.risk.lexisnexis.com
 tracking.risk.lexisnexis.com.br
 tracking.rnstronghealth.com
 tracking.ro2yatrade.com
@@ -178421,7 +178401,6 @@ truehits1.gits.net.th
 truehits3.gits.net.th
 truejasmine.com
 trueleadid.com
-truell55.top
 truellovedating.com
 trueloveonlinee.com
 truenat.bid
@@ -190188,7 +190167,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -196230,6 +196208,7 @@ yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
+yzcoc.com
 yzcpqa.gumtree.com
 yzdkhftbkynua.site
 yzdljh.clarins.ca
@@ -196338,7 +196317,6 @@ z4xq.flareon.click
 z5.cnzz.com
 z5g022gc.xyz
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
