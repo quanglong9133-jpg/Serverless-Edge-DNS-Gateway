@@ -10472,7 +10472,6 @@ ads.netsol.com
 ads.networksolutions.com
 ads.networkwcs.net
 ads.newdb.mtp.pl
-ads.newgrounds.com
 ads.newmedia.cz
 ads.newsbook.com.mt
 ads.newsint.co.uk
@@ -12342,6 +12341,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -15921,7 +15921,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17684,6 +17683,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -19903,6 +19903,7 @@ api.mp.uc.cn
 api.mulherbrilhante.com.br
 api.mundo-montana.com
 api.mundomontanha.com.br
+api.muranojoias.com.br
 api.muriloreis.com.br
 api.myadsget.com
 api.myendpoint.io
@@ -28719,6 +28720,7 @@ brainberries.co
 braincash.com
 brainient.com
 brainlyads.com
+brainsanswers.com
 brainshark.evergage.com
 brainsland.com
 brainsoptionsshirt.com
@@ -33035,7 +33037,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -33164,7 +33165,6 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -37839,7 +37839,6 @@ connect.groupamana.com
 connect.guardiangroupbenefits.com
 connect.handlesets.com
 connect.health.bjc.org
-connect.health.lexmed.com
 connect.healthcare.northbay.org
 connect.healthcare.rush.edu
 connect.hexagongeosystems.com
@@ -38669,6 +38668,7 @@ coolstreamsearch.com
 coolyun.com
 coom.in
 coonnfirrmm-bankingg247njf.weebly.com
+coonvalleydairysupply.com
 coop.vmware.com
 cooperate.firstimpression.io
 cooperatemarker.com
@@ -40218,7 +40218,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -52378,7 +52377,6 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
-dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -56116,6 +56114,7 @@ error.demdex.net
 error.fc2.com.cdn.cloudflare.net
 error.nextersglobal.com
 error.practicefusion.com
+error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.videonow.ru
 error.websaas.cn
@@ -59945,6 +59944,7 @@ findandate.com
 findanswersnow.net
 findbetterresults.com
 findclicksaveopen.click
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -95256,6 +95256,7 @@ makesdebit.com
 makesimpact.com
 makesitsense.hotel-alpenkoenig.de
 makesmestronger.com
+makethebusiness.com
 makeup89.com
 makeuppillow.com
 making.party
@@ -98468,6 +98469,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -107280,7 +107282,6 @@ ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
 ngacm.com
-ngads.com
 ngads.go.com
 ngadverts.com
 ngaffn.itokin.net
@@ -120137,7 +120138,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -123394,6 +123394,7 @@ qc.coccoc.vn
 qc.designervn.net
 qc.japo.vn
 qc.kqbd88.com
+qc.mhsolution.vn
 qc.qualicocommunitieswinnipeg.com
 qc.ultraviewer.net
 qc.violet.vn
@@ -133399,7 +133400,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -154836,6 +154836,8 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -175521,7 +175523,6 @@ tracking.hawksearch.com
 tracking.hd.se
 tracking.health.bilh.org
 tracking.health.bjc.org
-tracking.health.lexmed.com
 tracking.health.tmcaz.com
 tracking.healthnatura.com
 tracking.heattransfers.com
@@ -178974,7 +178975,6 @@ u.9111s.ru
 u.acuityplatform.com
 u.api.look.360.cn
 u.atv.duapps.com
-u.audi-pureprotection.com
 u.ctrip.com
 u.dc.duapps.com
 u.dec.duapps.com
@@ -183947,7 +183947,6 @@ viiuwecw.com
 viiwgrhk.com
 viiwmjfw.com
 viiwmkvb.com
-viixdjse.com
 viiyfuzhypuns.site
 viiyutty.com
 viiyxefb.com
