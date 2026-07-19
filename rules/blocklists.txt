@@ -11434,7 +11434,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -18126,6 +18125,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21225,7 +21225,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -30104,7 +30103,6 @@ bxbtbf.msccruises.no
 bxbuvv.zeelool.com
 bxcebt.enjoyyourcamera.com
 bxdeaeieixgkf.store
-bxdrrkfeichhms.com
 bxekozqvwcqeg.space
 bxerfbkaoasof.space
 bxfvaugytecwq.online
@@ -33229,6 +33227,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -33357,7 +33356,6 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -40351,7 +40349,6 @@ cryptosmoke.care
 cryptosplash.care
 cryptotrials.care
 cryptotyc.care
-cryptousawallet.com
 cryptowheel.net
 crystal-blocker.com
 crystalbeachrealestate.net
@@ -58787,7 +58784,6 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -58795,9 +58791,7 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62142,7 +62136,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -65926,7 +65919,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -86025,7 +86017,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -94289,7 +94280,6 @@ lowlifewhateverspotless.com
 lowmothandhadb.org
 lownet.fr
 loworiginatepalette.com
-lowrihouston.pro
 lowtrainer.com
 loxitdat.com
 loy356.site
@@ -110008,7 +109998,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -119048,6 +119037,7 @@ pic-stash.com
 pic.0597kk.com
 pic.adeaz.com
 pic.baihuawen.cn
+pic.bdyxzx.com
 pic.bloggerads.net
 pic.by175.com
 pic.cdn362.cc
@@ -119113,7 +119103,6 @@ pictureturn.com
 picturevip.xyz
 piddme.buyma.com
 pidmancthrw.com
-pidu.com
 pieazaihprmpz.site
 pieclayton.com
 pieejami.tilde.ai
@@ -132811,6 +132800,7 @@ rtb.netaddiction.tech
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
+rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -134888,6 +134878,7 @@ s84.cnzz.com
 s85.cnzz.com
 s86.cnzz.com
 s861531437.sc.origins.en25.com
+s87.cnzz.com
 s88.cnzz.com
 s89.cnzz.com
 s8dkjh8jd.com
@@ -155969,6 +155960,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -158635,7 +158627,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -181279,7 +181270,6 @@ umguf.samialert.com
 umgzvlbrqzyeq.online
 umh.mybluehost.me
 umhkzidngrmor.website
-umhtpaohymjwy.com
 umhyck.belvilla.com
 umi.cloudful.de
 umid.xuexi.cn
@@ -182592,7 +182582,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -183693,6 +183682,7 @@ v2.pixel.hrprclp.data.newscorp.com
 v2.pixel.nukp.data.newscorp.com
 v2.reachmax.cn
 v2.relaido.jp
+v2.res.log.hunantv.com
 v2.trknex.com
 v20.cnnd.vn
 v20.events.data.microsoft.com
@@ -184334,7 +184324,6 @@ vebmmcatswbwv.com
 vebv8me7q.com
 vechainofficial.org
 vectaury.io
-vectoio.net
 vector.co
 vectormarketing.com
 vectorpulsemesh8.cyou
@@ -190553,7 +190542,6 @@ wtag.estlier.net
 wtb-tag.mikmak.ai
 wtb-tag.swaven.com
 wtbevents.pricespider.com
-wtcailhxmpge.com
 wtdshzjdlppil.online
 wtdtqt.efireplacestore.com
 wtdttepdbcpnx.site
@@ -190911,7 +190899,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -192156,7 +192143,6 @@ www.primecrestnq.name
 www.proadscdn.com
 www.procarsharing.store
 www.profitablecpmratenetwork.com
-www.profitshare.bg
 www.promomasters.at
 www.promoskills.com
 www.propellerclick.com
@@ -195558,7 +195544,6 @@ yardianalytics.com
 yardnamesake.com
 yardr.net
 yardstick.bitchute.com
-yardtoexperience.net
 yarezo.vendee-tourisme.com
 yariman.online
 yaroec.plytki-lazienki.pl
