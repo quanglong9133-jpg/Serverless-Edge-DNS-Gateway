@@ -3585,6 +3585,7 @@ a.intgr.net
 a.ipinfo.io
 a.ipoque.com
 a.iprima.cz
+a.itrex.site
 a.jamni.xyz
 a.jaz-hotel.com
 a.jobcloud.ai
@@ -11414,6 +11415,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -11546,6 +11548,7 @@ adservice.google.ga
 adservice.google.ge
 adservice.google.gg
 adservice.google.gl
+adservice.google.gm
 adservice.google.gp
 adservice.google.gr
 adservice.google.gy
@@ -15040,6 +15043,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -33372,6 +33376,7 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -34763,6 +34768,7 @@ citrixtelemetryeh.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
 citroen-g10-server-side-tagging-prod-406671236336.europe-west9.run.app
+citronsstealed.website
 citrousamex.cyou
 citrusad.com
 citrusad.net
@@ -38912,7 +38918,6 @@ coolyun.com
 coom.in
 coonlentisk.cyou
 coonnfirrmm-bankingg247njf.weebly.com
-coonvalleydairysupply.com
 cooolors.com
 coop.vmware.com
 cooperate.firstimpression.io
@@ -40334,7 +40339,6 @@ crutchstubbornultimatum.com
 crutop.nu
 cruxgpnyrvvur.website
 cruzietv.com
-cruzresorts.com
 cruzswim.org
 crvayw.kagunosato.com
 crvpqt.srrk.co.kr
@@ -63395,7 +63399,6 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxy.reachifyinnovations.in
@@ -82075,6 +82078,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 jornaya.com
 joryvztqojsig.space
@@ -96146,6 +96150,7 @@ management-boost.exads.com
 management-itsup.exads.com
 management-slice.exads.com
 management-topple.exads.com
+management-venntro.exads.com
 management-vsmedia.exads.com
 management.adxnow.com
 managementgrandpa.com
@@ -97023,6 +97028,7 @@ marketing.impexium.com
 marketing.inaani.com
 marketing.incrediwear.com
 marketing.indianadunes.com
+marketing.industrialspec.com
 marketing.inex.com
 marketing.influitive.com
 marketing.infogrouptargeting.com
@@ -101735,7 +101741,6 @@ metrics.toysrus.pt
 metrics.tractorsupply.com
 metrics.travelchannel.com
 metrics.travelodge.com
-metrics.travix.com
 metrics.trellix.com
 metrics.trendmicro.co.jp
 metrics.trendmicro.com
@@ -121170,7 +121175,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -133953,7 +133957,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -160441,7 +160444,6 @@ stape.barretocoach.com.br
 stape.bastidoressamuelfialho.com.br
 stape.batikmendes.com.br
 stape.batistonibaldacciteam.com
-stape.batsss.co
 stape.bauerfeind.com.br
 stape.bbspremios.bet
 stape.be
@@ -160687,6 +160689,7 @@ stape.compraweb.site
 stape.comunidadekommobrasil.com
 stape.comunidadethiagocastro.com.br
 stape.concursosjabrasil.com.br
+stape.condominiovicinno.com.br
 stape.conehox.com
 stape.conexaohidraulica.com.br
 stape.conexaoimoveistoledo.com.br
@@ -166879,7 +166882,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -174132,7 +174134,6 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -186214,7 +186215,6 @@ vpn-explained.com
 vpn-us-west.conversantmedia.com
 vpn.express
 vpn.szdatayj.com
-vpn.tuodupingguomiao.com
 vpnaffiliates.com
 vpnclick.biz
 vpndb.alhapi.com
@@ -188205,7 +188205,6 @@ webd.home.news.cn
 webdat.mai-estate.com
 webdata.brskins.gg
 webdesignerhut.com
-webdesignmetric.com
 webdev0.com
 webdevotee.com
 webdissector.com
@@ -191433,7 +191432,6 @@ www.duniavirtual.com
 www.dunlop.force9.co.uk
 www.duobaoqj.com
 www.duotrader.com
-www.dutchoutlet.com
 www.dxp-data.celonis.com
 www.dynamictyres.com
 www.dzzzsc.com
@@ -196409,7 +196407,6 @@ youlamedia.com
 youle55.com
 youlead.pl
 youlouk.com
-youltube.biz
 youmi.net
 younetmedia.com
 young-assistant.com
@@ -197022,7 +197019,6 @@ yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
-yzcoc.com
 yzcpqa.gumtree.com
 yzdkhftbkynua.site
 yzdljh.clarins.ca
@@ -197139,7 +197135,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
