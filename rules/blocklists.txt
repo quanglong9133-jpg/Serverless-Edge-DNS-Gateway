@@ -5861,6 +5861,7 @@ abc.lahdesmaki.fi
 abc.lapti.fi
 abc.linnenshop.nl
 abc.madrobe.com
+abc.magnetictomotivatedsellers.com
 abc.mediashake.fi
 abc.megafurniture.sg
 abc.metapcs.com
@@ -9438,6 +9439,7 @@ adplsr.com
 adplug.org
 adplugg.com
 adplugg.io
+adplus.co.id
 adplus.io
 adplus.yonhapnews.co.kr
 adplushome.com
@@ -10049,7 +10051,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -11438,7 +11439,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15073,7 +15073,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -16035,6 +16035,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17811,6 +17812,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18205,6 +18207,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -20351,7 +20354,6 @@ api.unibots.in
 api.uniconsent.com
 api.unifasecrs.com.br
 api.unilabs.online
-api.union.vip.com
 api.universobi.com.br
 api.upcompanybr.com.br
 api.upliftads.io
@@ -23710,7 +23712,6 @@ av.aaramverse.com
 av.adblade.com
 av.ageverify.co
 av.sharktube.net
-av1.xdrig.com
 av2.sozcu.com.tr
 av6fm8zw2cvz.furucombo.app
 avada-geo-ip.web.app
@@ -33378,6 +33379,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -48001,7 +48003,6 @@ dc.volkswagen.no
 dc.volkswagen.pl
 dc.vw.co.za
 dc.vw.com
-dc.vw.com.mx
 dc.zales.com
 dc.zalesoutlet.com
 dc01p-net-sslvpn0-ra.net.jumia.com.gh
@@ -52972,7 +52973,6 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
-dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -67487,7 +67487,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 gribao.com
@@ -72130,7 +72129,6 @@ hammocksmellie.cyou
 hammocksteedconjecture.com
 hamoney.xyz
 hamrzyudxrhyb.online
-hamsayo.com
 hamserver.ir
 hamster.consentkit.io
 hamster.darstellendekuenste.de
@@ -87640,7 +87638,6 @@ ligydaloca.com
 lihatt.icu
 lihayne.shop
 lihmnebydaizl.site
-lihshailmyjzb.space
 lijha.jardabypalme.com.br
 lijhi.unclereco.com
 lijit.com
@@ -106297,6 +106294,7 @@ mundi.zuremod.com
 mundleknickerhoyman.qpon
 mundo-ticket.com
 munerp.org
+mung.us
 mungoprowess.com
 munichile.cl
 munilf.com
@@ -110562,7 +110560,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -121790,7 +121787,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134468,6 +134464,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -135410,7 +135407,6 @@ s85.cnzz.com
 s86.cnzz.com
 s861531437.sc.origins.en25.com
 s87.cnzz.com
-s88.cnzz.com
 s89.cnzz.com
 s8dkjh8jd.com
 s8ey.com
@@ -177623,7 +177619,6 @@ tracking.nyhetstjansterna.dagensmedicin.se
 tracking.nyhetstjansterna.di.se
 tracking.nylim.com
 tracking.nynashamnsposten.se
-tracking.occident.com
 tracking.ocr.ca
 tracking.oe24.at
 tracking.offerista.com
@@ -185465,7 +185460,6 @@ vgutxnvrwydey.website
 vguvlebxydqby.site
 vgvlomnrcekke.website
 vgwort.de
-vgwruoenzwlw.com
 vgxjxrbvldgfw.online
 vgxmagbsctvdf.online
 vgxoybh.me
@@ -191616,7 +191610,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
