@@ -627,7 +627,6 @@
 1909a8.satofull.jp
 191920.bambonature.de
 192168.luyouwang.com
-192168492.com
 19515bia.de
 1958buickforum.net
 19706903.xyz
@@ -9981,7 +9980,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -10049,6 +10047,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16034,6 +16033,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -21297,7 +21297,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21432,6 +21431,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22305,7 +22305,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29490,7 +29489,6 @@ bryanvoiced.shop
 brycys.24mx.se
 brygella.com
 brynh-lei.com
-bryzenta.cfd
 brzbrjycauqcf.site
 brzhwnzizcllp.site
 brzjthsubtlwj.site
@@ -33374,7 +33372,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -33503,7 +33500,6 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -35284,7 +35280,6 @@ clearlyvocaldinosaur.shop
 clearnview.com
 clearonclick.com
 clearspring.com
-cleartag.run
 clearviewcrm.softrek.com
 clearwatch.tv
 clearwateranalytics.com
@@ -40437,6 +40432,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -43761,6 +43757,7 @@ dailykarma.io
 dailypaul.com
 dailyrumor-jp.co.in
 dailysubsidy.com
+daima.diaoben.net
 daima.ijq.tv
 daima.yggk.net
 daima.ysdui.com
@@ -46124,6 +46121,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -51260,7 +51258,6 @@ doublepimp.com
 doublepimpads.com
 doublepimpssl.com
 doublesmart.digital
-doubletag.run
 doubleverify.com
 doubleverify.com.cdn.cloudflare.net
 doubleview.online
@@ -52965,6 +52962,7 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
+dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -54934,6 +54932,7 @@ electronics.sony-latin.com
 electronics.tradeshow.globalsources.com
 electroslm.shop
 electrubtc.org
+electrum.com.vc
 electsauna.com
 electthirteenth.com
 electuallyenitwasbr.org
@@ -55632,7 +55631,6 @@ embeds.beehiiv.com
 embedx.name
 embeliapodalectypes.cyou
 embellishedmeadow.com
-ember-cf-netlify.cdn-x.net
 embercascademaple.com
 emberwhisper.com
 embezzlementclearedbake.com
@@ -60322,7 +60320,6 @@ filecypresshub.com
 filedn.eu
 fileechoisland.sbs
 filefixation.com
-filehost.sbs
 filejo.com
 filelindenplanet.com
 filepinezone.com
@@ -63735,6 +63732,7 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
+galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxy.reachifyinnovations.in
@@ -72076,7 +72074,6 @@ halibut.jimruegolfinstruction.com
 halibut.phytype.com
 halidomduolog.shop
 halidsembraketipped.cyou
-halivo.cfd
 halldata.com
 hallmarkcom.tt.omtrdc.net
 halloesjuncat.cyou
@@ -74236,22 +74233,7 @@ host.officinegullo.com
 host.ru
 host.yadro.ru
 host.zoodipistoia.it
-host05q.cfd
-host06q.cfd
 host1.yadro.ru
-host10q.cfd
-host11q.cfd
-host12q.cfd
-host13q.cfd
-host15q.cfd
-host42p.cfd
-host50p.cfd
-host67p.cfd
-host70p.cfd
-host76p.cfd
-host81p.cfd
-host82p.cfd
-host89p.cfd
 hostadsmarkets.com
 hostave.net
 hostave4.net
@@ -95734,7 +95716,6 @@ lypslljhdhveu.website
 lyqipmieqcdyt.online
 lyqktmnzhoapj.online
 lyqlmfiyinygz.space
-lyqvera.cfd
 lyr.pubmatic.com
 lyremanwanhapcarped.qpon
 lyreridgier.shop
@@ -99795,6 +99776,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -106616,6 +106598,7 @@ my.11teamsports.pl
 my.11teamsports.pt
 my.11teamsports.se
 my.11teamsports.si
+my.11teamsports.sk
 my.adocean.pl
 my.aivideostitcherfx.com
 my.appcues.com
@@ -107167,7 +107150,6 @@ n4kb43cl2bsw.creatordrop.com
 n4kd6phdxw.com
 n4m5x60.com
 n4n9ltlsb5.cfd
-n4plt9dg.shop
 n4qrsf6x88.com
 n4sredirect.com
 n5.zuoyebang.cc
@@ -110547,7 +110529,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -116853,7 +116834,6 @@ p016eshru.kaybe.co.uk
 p03.sc.origins.en25.com
 p030.courant.com
 p03h.hs.eloqua.com
-p03sil.cyou
 p04.sc.origins.en25.com
 p06.sc.origins.en25.com
 p0b2hqyz.xyz
@@ -124242,7 +124222,6 @@ purelyfountains.com
 purelynable.cfd
 pureprofile.com
 purevideo.com
-purge.fb-cdn.net
 purgrobi.com
 purifydigital.g2afse.com
 purifydimeprove.com
@@ -124533,7 +124512,6 @@ pvdafseagcfcz.site
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
-pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -125998,6 +125976,7 @@ qualiclicks.com
 qualificationgarland.com
 qualified-beach.pro
 qualified.com
+qualifiedact.com
 qualifiedbillion.com
 qualifieddigitalamerptrsd.demdex.net
 qualigo.de
@@ -165694,9 +165673,7 @@ storage.creative-mobile.com
 storage.mcwnow.co
 storage.outbrain.com
 storage.psstgccint.com
-storage07x.cfd
 storage1000-textad.fc2.com
-storage11x.cfd
 storageimagedisplay.com
 storagerecurrent.com
 storagetechnology.arrow.com
@@ -167050,7 +167027,6 @@ suszhi.com
 sut.dailyfx.com
 sut.iggroup.com
 sutiletoroid.com
-sutra69.com
 sutraf.com
 sutrasrebbe.qpon
 suttacen.qpon
@@ -167397,6 +167373,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -174714,6 +174691,7 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -189713,7 +189691,6 @@ whjl.curvevera.com
 whjovd.biz
 whjre.com
 whkhct2lnf.com
-whklx.cyou
 whktr.runrocknroll.com
 whlimyimgudxl.website
 whlwcahw1x.com
