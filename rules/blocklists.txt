@@ -9991,6 +9991,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -11449,7 +11450,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15078,7 +15078,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
@@ -22315,7 +22314,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33422,6 +33420,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33549,6 +33548,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -53071,6 +53071,7 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
+dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -59198,13 +59199,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62606,6 +62610,7 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -66456,6 +66461,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -67606,7 +67612,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 gribao.com
@@ -76723,7 +76728,6 @@ iklantelevisi.com
 iklantext.com
 iklanumum.com
 iklparx8i.com
-ikmmigvehmod.com
 ikneio.aquantindia.com
 ikoac.thunderbirdskin.com
 ikonsripcordslice.qpon
@@ -82650,6 +82654,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 jornaya.com
 joryvztqojsig.space
@@ -86665,6 +86670,7 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -115725,7 +115731,6 @@ oqnmh.cheesebros.com
 oqnns.urraeroi.it
 oqp.mybluehost.me
 oqr4.destinia.in
-oqsrwbyb.com
 oqtuzo.b2bpartner.cz
 oqtxcfuumplee.website
 oquassaclaroesjaegars.cfd
@@ -140145,7 +140150,6 @@ server.bigtruckhoods.com
 server.bikedecorbd.com
 server.bikiniprivatelabel.com
 server.bilaslifestyle.com
-server.billbazar.com.bd
 server.biofarmmanipulacao.com.br
 server.bionera-kosmetik.de
 server.bioshifabd.com
@@ -149812,6 +149816,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -156772,7 +156777,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -159431,6 +159435,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -183518,7 +183523,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -191855,6 +191859,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -197974,7 +197979,6 @@ yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
-yzcoc.com
 yzcpqa.gumtree.com
 yzdkhftbkynua.site
 yzdljh.clarins.ca
