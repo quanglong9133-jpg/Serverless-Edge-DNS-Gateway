@@ -11288,7 +11288,6 @@ adserve.jbs.org
 adserve.kargo.com
 adserve.lasentinelle.mu
 adserve.mahimeta.com
-adserve.pen6.cc
 adserve.ph
 adserve.postrelease.com
 adserve.shopzilla.com
@@ -15096,6 +15095,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -17835,6 +17835,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -21324,7 +21325,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21458,7 +21458,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -22331,7 +22330,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33577,7 +33575,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -40812,7 +40809,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -53124,6 +53120,7 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
+dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -59257,13 +59254,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62663,6 +62663,7 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -69612,7 +69613,6 @@ gtm.kavyscustoms.com
 gtm.kb99ads.xyz
 gtm.kebabandcook.de
 gtm.keeper.com.br
-gtm.keeraz.com
 gtm.kenit.com.br
 gtm.kerootica.com.br
 gtm.kettlebellevolution.com.br
@@ -73963,7 +73963,6 @@ hlj10091ip.com
 hljdjkifipczx.online
 hljgz.phxhomeremodeling.com
 hlkwshtzpeuma.space
-hlllo.legacyalliance.club
 hlnuh.condition1.com
 hlo7m83x.xyz
 hlobzlwykghmf.website
@@ -86758,6 +86757,7 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -110863,7 +110863,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -122112,7 +122111,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134818,7 +134816,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -135326,7 +135323,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -159612,6 +159608,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -167464,7 +167461,6 @@ suszhi.com
 sut.dailyfx.com
 sut.iggroup.com
 sutiletoroid.com
-sutra69.com
 sutraf.com
 sutrasrebbe.qpon
 suttacen.qpon
@@ -199695,7 +199691,6 @@ zs.voyage-prive.com
 zs1.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
-zs12.cnzz.com
 zs13.cnzz.com
 zs14.cnzz.com
 zs15.cnzz.com
@@ -200045,7 +200040,6 @@ zxvxukirgmomz.site
 zxwfcwm.icu
 zxwows.tucanourbano.com
 zxxvns.f64.ro
-zxyemuurmkjcel.com
 zxzbjqoyojpza.site
 zy.aphacicfable.com
 zy.phasedcleft.com
