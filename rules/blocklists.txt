@@ -10049,7 +10049,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16039,7 +16038,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -25736,7 +25734,6 @@ bd1.365qilu.com
 bd1.52che.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.flfgw.cn
 bd1.guancha.cn
 bd1.jinbaozy.com
 bd1.moguvet.com
@@ -26974,7 +26971,6 @@ bibeidh48.cc
 bibglj.timberland.fr
 bibiannexa.shop
 bibigor.com
-bibincom.com
 bibleearthquake.com
 bibrhubxbyyfq.site
 bichircofttrue.cfd
@@ -33421,7 +33417,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -40789,6 +40784,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -46232,7 +46228,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -46784,7 +46779,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -53112,7 +53106,6 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
-dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -67479,6 +67472,7 @@ grailerfisty.com
 grailrank.qpon
 grainmass.com
 graithexpire.com
+graizoah.com
 grallichalvas.com
 gralqithd.com
 grammarly.go2cloud.org
@@ -80587,7 +80581,6 @@ ipua.adfurikun.jp
 ipummv.pharao24.de
 ipuqsk.mistral.com.br
 ipuseutgzcvet.space
-iputoojbewo.com
 ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com
 ipv4-c024-mia006-ix.1.oca.nflxvideo.net.iberostar.com
 ipv4-cs.intsig.net.iberostar.com
@@ -81618,7 +81611,6 @@ jampp.com
 jampredestination.com
 jamsalon.com
 jamshidectypalduper.cfd
-jana1.jeoway.net
 janapi.jd.com
 jandaqwe.com
 janglecondemn.com
@@ -117580,7 +117572,6 @@ pagfl.karismahotels.com
 paginaseloqua.unisabana.edu.co
 pagiwp.com
 pagkitahn.com
-pagoda56.com
 pagonxt.tt.omtrdc.net
 paht.tech
 pahtag.tech
@@ -126419,6 +126410,7 @@ quantserve.com
 quantserve.net
 quantumadblocker.com
 quantumads.com
+quantumapps.xyz
 quantumdex.io
 quantumgraph.com
 quantumlagoon.com
@@ -129989,6 +129981,7 @@ rdzjxlizigryv.online
 rdzkb.houseofchingasos.com
 rdzretjctqkcn.site
 re-ads.com
+re-directme.com
 re-media.info
 re.commufa.jp
 re.focusdice.com
@@ -149696,7 +149689,6 @@ smetrics.payment-estimator.vwcredit.com
 smetrics.paysafecard.com
 smetrics.pbteen.ca
 smetrics.pbteen.com
-smetrics.pch.com
 smetrics.pcid.ca
 smetrics.pcoptimum.ca
 smetrics.pcworld.co.uk
@@ -150047,7 +150039,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -157012,7 +157003,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -157361,7 +157351,6 @@ sst.apollofitness.ie
 sst.app.bo-oks.com
 sst.appcndk.com
 sst.appiotti.com
-sst.aprendafacilemcasa.free.nf
 sst.aptus.ai
 sst.aquafitness-colmar.com
 sst.aqualoft-ferrieres.fr
@@ -164912,7 +164901,6 @@ stats.beta.gouv.fr
 stats.beyondthesprawl.com
 stats.bibliu.com
 stats.big-boards.com
-stats.bigsim.de
 stats.bildconnect.de
 stats.bilsyndication.com
 stats.birgun.net
@@ -165433,7 +165421,6 @@ stats.realclick.vn
 stats.realestate.if.ua
 stats.realestate.kyiv.ua
 stats.realtimemds.com
-stats.refurbished-handys.de
 stats.renet.io
 stats.reportcpanel.com
 stats.republika.co.id
@@ -181378,7 +181365,6 @@ u.api.look.360.cn
 u.atv.duapps.com
 u.ctrip.com
 u.dc.duapps.com
-u.dec.duapps.com
 u.df.duapps.com
 u.diannaodian.com
 u.ds.duapps.com
@@ -183802,7 +183788,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -187470,6 +187455,7 @@ vr.fanzacom.live
 vranj.bondimealprep.com.au
 vrauwhahnrjuh.space
 vrbzg.craftclubco.com
+vrcyxqjipj.com
 vrdgm.theproteinworks.com
 vrejpatwet.in
 vrfdcwhyaodng.store
@@ -197658,6 +197644,7 @@ ynhafvxotzgyw.online
 yniabq.kemptener-jobanzeiger.de
 ynjryqkgtlixu.space
 ynkunarlg.com
+ynlfpyeifc.com
 ynlodkuuacugx.site
 ynlucjumrddkg.website
 ynlvyoubuluo04.com
@@ -198517,7 +198504,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
