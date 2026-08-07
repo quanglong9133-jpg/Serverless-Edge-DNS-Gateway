@@ -9977,6 +9977,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -12164,7 +12165,6 @@ adtrace.ai
 adtrace.io
 adtrace.ir
 adtrace.org
-adtrace.world
 adtrack-intl.ucweb.com
 adtrack-php-loadbalancer-vpc-1246401395.eu-west-1.elb.amazonaws.com
 adtrack.adleadevent.com
@@ -12378,7 +12378,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -15076,6 +15075,7 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21293,6 +21293,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22296,7 +22297,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -23344,7 +23344,6 @@ aty.sohu.com
 atycs.profootballacademy.com
 atype.jp
 atytentioniaukmla.org
-atytxgxlblxa.com
 atyvapfwastoa.space
 atzonebd.com
 atzzrq.tbs.co.jp
@@ -33596,7 +33595,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
+cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -46288,6 +46287,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -64034,7 +64034,6 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
@@ -81017,7 +81016,6 @@ isi-tracking.eventim.com
 isic.dentalweb.cz
 isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
-isikpeyzaj.com
 isingmuddy.cyou
 isite.baidu.com
 isiyxikfxjqwh.online
@@ -85656,7 +85654,6 @@ kqchxa.denizbutik.com
 kqdk1.petheaven.co.za
 kqdqrj.traktorpool.de
 kqefj.clearstem.com
-kqfjrwzx.com
 kqfkauld.trulyengaging.com
 kqftc.com
 kqg8jh8rk.com
@@ -86893,7 +86890,6 @@ lawfulness85.com
 lawfulpatience.com
 lawksister.shop
 lawmakecluther.com
-lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawyeritalyaching.com
@@ -104995,7 +104991,6 @@ mo.gatsbykynurin.com
 mo.gushiji.cc
 mo.haloapps.cn
 mo.kugou.com
-mo.res.wpscdn.cn
 mo.tb2track.pro
 mo0lqi51s1.com
 mo2dll.win123888.com
@@ -107086,7 +107081,6 @@ mxzxdugzqayax.site
 my-adv.ru
 my-analytics.malwarebytes.com
 my-board.org
-my-exodus.co.uk
 my-go.experian.com
 my-ip.club
 my-ip.de
@@ -116742,7 +116736,6 @@ outlinedesignateinstalment.com
 outlinedistinguish.com
 outlineflourishingplumber.com
 outloc.com
-outloginequity.com
 outloo0k.com
 outlookabsorb.com
 outlookads.live.com
@@ -122326,7 +122319,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -133950,6 +133942,7 @@ rtb.netaddiction.tech
 rtb.nowsrv.com
 rtb.nuismak.com
 rtb.openx.net
+rtb.pclick.yahoo.com
 rtb.prnteen.com
 rtb.prod.carbonatixaudio.com
 rtb.recoilnetwork.com
@@ -134411,6 +134404,7 @@ rugatevulgare.shop
 rugbycaricaturescheme.com
 rugbymentalads.com
 rugcookingintersection.com
+rugerguns-usa.com
 rugfrfji.win
 rugiomyh2vmr.com
 rugpowerfully.com
@@ -135074,7 +135068,6 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
-s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -135582,6 +135575,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -184021,7 +184015,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -192393,6 +192386,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -193133,6 +193127,7 @@ www.heyzap.com
 www.hiaiabc.com
 www.hibids10.com
 www.hiewa.com.my
+www.higame123.com
 www.higherteam.com
 www.highgg.com
 www.hipmarket.com
@@ -193517,7 +193512,6 @@ www.njpj.com
 www.nkscdn.com
 www.nmpcdn.com
 www.nobrain.dk
-www.norsinceexactlyamongplait.com
 www.northvalesgrids.uk
 www.novanet.vn
 www.novaon.asia
