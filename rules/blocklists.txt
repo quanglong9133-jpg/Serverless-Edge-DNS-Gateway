@@ -10061,6 +10061,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15093,6 +15094,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -18225,7 +18227,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21253,7 +21254,6 @@ app.okstate.com
 app.olemisssports.com
 app.omappapi.com
 app.oncustomer.asia
-app.online.microfocus.com
 app.opmnstr.com
 app.optibase.io
 app.optmnstr.com
@@ -22320,6 +22320,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33504,6 +33505,7 @@ cdn.simpli.fi
 cdn.singular.net
 cdn.sinparty.com
 cdn.siteswithcontent.com
+cdn.skcrtxr.com
 cdn.slots.baxter.olx.org
 cdn.smachnakittchen.com
 cdn.smartclick.io
@@ -33525,6 +33527,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -59409,16 +59412,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -60984,7 +60984,6 @@ findbetterresults.com
 findcalculator.com
 findclicksaveopen.click
 findclicksaveopen.monster
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -62827,7 +62826,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -86993,7 +86991,6 @@ lawfulness85.com
 lawfulpatience.com
 lawksister.shop
 lawmakecluther.com
-lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawyeritalyaching.com
@@ -87030,7 +87027,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -91127,7 +91123,6 @@ load.gtmus.globe-trotter.com
 load.gts.juanbustos.co
 load.gwt.pickmore.co.uk
 load.gzoyotth.goldentime.dk
-load.han.wsohan.com
 load.has-ticket.milkshakefestival.com
 load.has-ticket.parkzicht-outdoor.nl
 load.has-ticket.supremacy.nl
@@ -100374,7 +100369,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -111184,6 +111178,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -119462,7 +119457,6 @@ peaseswainer.shop
 peasgutsprogramme.com
 peasisoft.com
 peasseventy.com
-peavyegeria.cyou
 peavymarble.cfd
 pebafisk.com
 pebaprowergrogger.qpon
@@ -135229,6 +135223,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -135737,6 +135732,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -145014,6 +145010,7 @@ sgtm.postfinance.ch
 sgtm.potricharquitetura.com
 sgtm.poulsborv.com
 sgtm.pourdebon.com
+sgtm.powerrichsports.com
 sgtm.predeion.it
 sgtm.prefast.nl
 sgtm.preplife.dk
@@ -157376,6 +157373,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -160032,7 +160030,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -167455,7 +167452,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -190550,7 +190546,6 @@ whatwetly.com
 whatya.solairo-api.com
 whatz-hot.com
 whauvegrimes.cyou
-whayzoxsfxef.com
 whazrm9wa.com
 whbfbktmafnff.space
 whbjtvsrexgif.store
@@ -197880,7 +197875,6 @@ yjlhep.skechers.co.nz
 yjm.mybluehost.me
 yjnmrs.mall.pl
 yjonbxthuxllt.website
-yjonspllguxz.com
 yjotqzesimahl.online
 yjpehuogudsoy.site
 yjpgxf.svsound.com
@@ -198945,6 +198939,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
