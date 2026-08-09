@@ -9990,6 +9990,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10057,6 +10058,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15091,6 +15093,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -16069,7 +16072,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17833,7 +17835,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18224,7 +18225,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21315,6 +21315,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -31700,7 +31701,6 @@ capi.iceworld.tech
 capi.iconshopper.com
 capi.ieltsadvantage.com
 capi.ieltsprof.com
-capi.iftacare.shop
 capi.imbmasnasulasa.com
 capi.imersaoclinicadesucesso.com
 capi.jlorrainecustomdesigns.com
@@ -33536,6 +33536,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33663,6 +33664,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -36967,7 +36969,6 @@ cnf.adbana.com
 cnfgeouygw.biz
 cnfgeouygw.info
 cngbpl.directliquidation.com
-cngewtky.com
 cnhuxrpiawywk.space
 cnhv.co
 cnid.condenastdigital.com
@@ -51799,6 +51800,7 @@ dragontamer.net
 dragstergibletshaded.com
 drainage-superstore.pxf.io
 drainalmost.com
+drainmayhem.click
 drainpaste.com
 drakerecitalpraised.com
 dramaticdeterpulverize.com
@@ -65970,7 +65972,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -120548,7 +120549,6 @@ pinniped.quarantinecup.live
 pinniped.resist.bot
 pinniped.spacecountdown.com
 pinnulepagedom.com
-pinptg.milleni.com.tr
 pinsightmedia.com
 pinsonsnunnari.qpon
 pintanoembaysohmic.cfd
@@ -135214,6 +135214,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -137396,6 +137397,7 @@ sbdhdq.zeeman.com
 sbdtds.com
 sbeacon.sina.com.cn
 sber.cod63.com
+sber.sell2dealer.com
 sbermarketing.ru
 sbfsdvc.com
 sbhopicieqsmd.online
@@ -138494,6 +138496,7 @@ seavees.pxf.io
 seavideo-ak.espn.go.com
 seawood.org
 sebaitbedmate.cyou
+sebar.idblognetwork.com
 sebipay.com
 sebokep.org
 sebotr.rizeclinic.com
@@ -167435,7 +167438,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -175588,6 +175590,7 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -198933,7 +198936,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
