@@ -11407,7 +11407,6 @@ adserver.mini-webs.org
 adserver.mk
 adserver.moitepari.bg
 adserver.muaban.net
-adserver.ngz-network.de
 adserver.nydailynews.com
 adserver.o2.pl
 adserver.oddschecker.com
@@ -12401,6 +12400,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -15097,7 +15097,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -17843,6 +17842,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -22336,6 +22336,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -26721,7 +26722,6 @@ betahit.click
 betamountwo.com
 betanetwork.net
 betarget.com
-betarget.de
 betazebra.com
 beteelaboiling.cyou
 beterrakionan.com
@@ -33706,6 +33706,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -33979,7 +33980,6 @@ ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com
 ce-is-gtm.byu.edu
 ce.adsdomaintracking.com
 ce.chi.com
-ce.do
 ce.galaxiemedia.fr
 ce.lijit.com
 ce.wlaoc.cn
@@ -40721,6 +40721,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -40973,6 +40974,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csghyg.reginaclinic.jp
@@ -46382,7 +46384,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -52676,7 +52677,6 @@ dtbw.pawfy.co.uk
 dtc.mblock.cc
 dtch.brunel.nl
 dtcollect.newsbang.com
-dtcqowyzyqjw.com
 dtdjhb.icu
 dteenergy.tt.omtrdc.net
 dtent.povvverz.one
@@ -55289,6 +55289,7 @@ eldestcontribution.com
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
+elearningmine.com
 eleavers.com
 electcocktail.com
 electorshreds.top
@@ -59502,16 +59503,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -62929,7 +62927,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -63186,7 +63183,6 @@ frrne.guess.com
 frro.utn.edu.ar
 frs2c.com
 frser.manzorabagues.fr
-frshliv.shop
 frskulk.com
 frspecifics.com
 frthg.antiquefarmhouse.com
@@ -67888,7 +67884,6 @@ greaterjoke.com
 greatlifebargains2024.com
 greatlyhonestgar.stream
 greatmiddleeastgate.com
-greatpillsshops.com
 greatviews.de
 greatwestlife.tt.omtrdc.net
 grebibablo.com
@@ -67961,6 +67956,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -83087,7 +83083,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -87126,6 +87121,7 @@ lawfulness85.com
 lawfulpatience.com
 lawksister.shop
 lawmakecluther.com
+lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawyeritalyaching.com
@@ -87163,7 +87159,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -97055,7 +97050,6 @@ magsrv.com
 magstag.magnalia.com.br
 magtorr.com
 maguruphreuza.store
-mahadindo.com
 mahajanenfelon.qpon
 mahassvibccui.store
 mahdk.etrendygo.com
@@ -110355,7 +110349,6 @@ nopleflzlj3jv82nn3bxlp.cfd
 noqxfuqrbngpi.space
 norahtomes.shop
 noralvasanchez.com
-noranglehow.com
 nordea.demdex.net
 nordicresearch.com
 nordics.biotics.no
@@ -115968,7 +115961,6 @@ openhit.com
 openingclutter.com
 openingfridayconsulting.com
 openinstall.io
-openinternetexchange.com
 openinternetexchange.net
 openjmacs.m.taobao.com
 openlinks.ru
@@ -117893,7 +117885,6 @@ pagename.care.ummhealth.org
 pagepulse.info
 pagerank-linkverzeichnis.de
 pagerank-online.eu
-pagerank-server7.de
 pagerank-suchmaschine.de
 pagerank.fr
 pagerank.jklir.net
@@ -123365,7 +123356,6 @@ prf.hn
 prf.vagnt.com
 prfctmney.com
 prfkmbwvryamw.store
-prfrms.shop
 prft1pub.com
 prftrndivoqqt.online
 prfwhite.com
@@ -126021,6 +126011,7 @@ qcxpoulxosxnf.site
 qcyfngmkrhcmg.website
 qczbv.henryrose.com
 qczgr.keyless-city.com
+qd.x4399.com
 qd38xgoin9.com
 qd83trk.com
 qdbqdirohipeb.space
@@ -133390,7 +133381,6 @@ rotasflaunty.qpon
 rotate4all.com
 rotate5url.com
 rotateme.ru
-rotatemyurls.com
 rotatingadult.com
 rotator.7x3.net
 rotator.riedta.com
@@ -135397,6 +135387,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -135904,6 +135895,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -141255,7 +141247,6 @@ server.diagnosticofinanceiro.com.br
 server.didam.com.br
 server.didiaguiar.com
 server.dieta.ai
-server.dietideas.com.my
 server.digital360bd.com
 server.digitalfastit.net
 server.dimep.com.br
@@ -157565,7 +157556,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160222,7 +160213,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -168412,6 +168402,7 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
+sweetslope.com
 sweetstudents.com
 swelen.com
 swell080227.shop
@@ -184412,7 +184403,6 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -194487,7 +194477,6 @@ www.voicefive.com
 www.voileblanche.com
 www.volantix.com
 www.volvce.com
-www.vonderlee.com
 www.voodoo.io
 www.vpon.com
 www.vsevjednom.cz
@@ -198424,6 +198413,7 @@ youku-dtv.m.cn.miaozhen.com
 youku.tv
 youkuvideo.net
 youla.bid4awin.com
+youla.mod22.com
 youlamedia.com
 youle55.com
 youlead.pl
@@ -200365,7 +200355,6 @@ zooyviwyuaocd.website
 zopqks.kavehome.com
 zopxzq.premiata.it
 zoqalwuvnsxut.site
-zorango.com
 zorbanmat.com
 zorkabiz.ru
 zorkamarket.g2afse.com
