@@ -9840,6 +9840,7 @@ ads.adretriever.com
 ads.adservme.com
 ads.adsmartx.com
 ads.adsmedia.com
+ads.adsstack.com
 ads.adsterra.com
 ads.adstream.com.ro
 ads.adsurve.com
@@ -9977,6 +9978,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10044,6 +10046,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15063,7 +15066,9 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -16045,7 +16050,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -18191,6 +18195,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -19482,6 +19487,7 @@ api.browser.intl.miui.com
 api.brs.intl.miui.com
 api.brunoacosta.com
 api.brutalkill.com.br
+api.bslacademy.com.br
 api.btloader.com
 api.bttrack.com
 api.bugsee.com
@@ -20065,6 +20071,7 @@ api.openova.com.br
 api.openpanel.dev
 api.openseminovos.com.br
 api.operalt.com.br
+api.oplayburguer.com.br
 api.opmnstr.com
 api.optmnstr.com
 api.oraale.com
@@ -20287,6 +20294,7 @@ api.tdp.u7u9.com
 api.tecbov.com.br
 api.telega.info
 api.telemetry.watchabc.go.com
+api.tendency.com.br
 api.terapeutaandrearaujo.com.br
 api.terracasadecor.com.br
 api.teslatreinamentos.com
@@ -22285,6 +22293,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33531,6 +33540,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -36936,6 +36946,7 @@ cname.finess.jp
 cname.gladis.jp
 cname.kyusai.co.jp
 cname.lions-mansion.jp
+cname.luccacustoms.com.br
 cname.mitsuihome.co.jp
 cname.polestar-m.jp
 cname.restys.jp
@@ -46331,7 +46342,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -48091,7 +48101,6 @@ dblindsey.com
 dblks.net
 dbmaster.aatkit.com
 dbmgc.marleylilly.com
-dbmgikwoijnhu.online
 dbmkkfqpgcijj.space
 dbmlkpqrktyto.online
 dbmyvl.apartmentfinder.com
@@ -59059,7 +59068,6 @@ eywkdpzpyggcq.site
 eywvko.shaddy.jp
 eyx.mybluehost.me
 eyxafvqxebmxc.space
-eyyejsherkfws.online
 eyyhsmsvymolw.online
 eyypxz.canifa.com
 eyzerannl.com
@@ -59470,7 +59478,6 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
 falcoware.com
 falhcegbmvooc.site
@@ -62871,7 +62878,6 @@ freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -69326,6 +69332,7 @@ gtm.eucurioso.com.br
 gtm.eujuntomilhas.com
 gtm.eusouwilliam.com.br
 gtm.evascientific.com
+gtm.eventodemarketingpolitico.com.br
 gtm.eventos.grupofap.com.br
 gtm.eventosindaia.com.br
 gtm.everafterfarms.com
@@ -71641,6 +71648,7 @@ gtmserver.motomaxyamaha.com
 gtmserver.mundoleilao.com
 gtmserver.nunoparanhos.com.br
 gtmserver.optimify.ai
+gtmserver.orthonet.com.co
 gtmserver.pazzei.com.br
 gtmserver.plannerlovers.com.br
 gtmserver.plantao24h.med.br
@@ -78607,6 +78615,7 @@ indextools.com
 indexuniverse.eu
 indexww.com
 indgq.simplyearth.com
+indiacom.com
 indianbannerexchange.com
 indianfriendfinder.com
 indianlinkexchange.com
@@ -79441,6 +79450,7 @@ info.thesmsgroup.com
 info.thestoryoftexas.com
 info.thomsonlinear.com
 info.tidbank.no
+info.tiendaalasexpress.com
 info.tiwoiltools.com
 info.tmlt.org
 info.toptal.com
@@ -84198,7 +84208,6 @@ kabobsvex.cfd
 kabokc.webuy.com
 kaboodle49.com
 kabqgaklabehk.website
-kabutowestend.com
 kacjbclirfhsp.online
 kad.gotokeep.com
 kadam.net
@@ -87093,7 +87102,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -101372,6 +101380,7 @@ metrics.aon.com
 metrics.apartmentfinder.com
 metrics.apartments.com
 metrics.apboxes.com.au
+metrics.apet.org.br
 metrics.api.drift.com
 metrics.api.nasuni.com
 metrics.api4pw.com
@@ -120287,6 +120296,7 @@ phonytanghan.shop
 phonyview.pro
 phoobsoo.net
 phoratecollat.shop
+phorganicfoods.com
 phosphate50.com
 phosphatevotinglydia.com
 photicstopper.cyou
@@ -122519,6 +122529,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134058,6 +134069,7 @@ rtb-useast.mybiddertop.xyz
 rtb-useast.nasrev.com
 rtb-useast.nativeadshb.com
 rtb-useast.prertbdir.com
+rtb-useast.pronivydigital.com
 rtb-useast.pureadsltd.com
 rtb-useast.rankortbdirect.com
 rtb-useast.readywind.media
@@ -134122,6 +134134,7 @@ rtb-uswest.mobclixs.com
 rtb-uswest.omnijay.com
 rtb-uswest.pareto21.com
 rtb-uswest.prertbdir.com
+rtb-uswest.pronivydigital.com
 rtb-uswest.rankortbdirect.com
 rtb-uswest.rnkclkres.com
 rtb-uswest.rtbflairads.com
@@ -137227,6 +137240,7 @@ sanywnnlhmual.space
 saoazftijjigm.online
 saooti.com
 saooykasbxdts.space
+saouryadi.in
 sap-ag.de
 sap.prprocess.com
 sapato.liazzishoes.com.br
@@ -138978,6 +138992,7 @@ securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
+securetags.igeo.com.bo
 securetags.img.com.br
 securetags.maps.com
 securetags.openware.com.kw
@@ -141513,6 +141528,7 @@ server.heroacademy.gg
 server.heynouri.com
 server.hijabstorebd.com
 server.himaloyprokashoni.com
+server.hipertin.com.ec
 server.hipnosebh.com.br
 server.historymakersgroup.com
 server.hkcases.com
@@ -142147,6 +142163,7 @@ server.paulaabreuoficial.com.br
 server.paulmisar.com
 server.pdvkawwhite.com.br
 server.peakforcelabs.com
+server.pediatricsboardreview.com
 server.pedraodalicitacao.com
 server.pelefiltro.com.br
 server.pellegrini-exposed.com
@@ -142222,6 +142239,7 @@ server.pro-aqua.com.br
 server.pro-vision-lighting.com
 server.proativaimoveis.com.br
 server.probus.nyc
+server.procav.com.br
 server.procherbd.com
 server.procolon.com.br
 server.produtosonline.com.br
@@ -152657,6 +152675,7 @@ somn.wholesalepartysupplies.com
 somni.accenture.com
 somni.alaskaair.com
 somni.americanwesthomes.com
+somni.amrock.com
 somni.amsurg.com
 somni.ashleyfurniturehomestore.com
 somni.aussiespecialist.com
@@ -155185,6 +155204,7 @@ ss.combatops.com
 ss.comeek.co
 ss.commonsensedivorce.ca
 ss.compare.quantior-france.com
+ss.compareincomeprotection.co.nz
 ss.confidentspeak.com
 ss.connect.lime-technologies.com
 ss.containerspace.co.nz
@@ -157435,8 +157455,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160092,7 +160110,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -161822,6 +161839,7 @@ stape.autoretroclassicos.com.br
 stape.auxiliomae.com
 stape.avalianr01.com.br
 stape.avalonbroker.io
+stape.avantgarde.com.br
 stape.aveiatapecaria.com.br
 stape.aviamentossaopaulo.com.br
 stape.avivare.org
@@ -162902,6 +162920,7 @@ stape.lovepedagogia.com
 stape.lowndesimoveis.com.br
 stape.lp.amdpromocionais.com.br
 stape.lp.ameliacostura.com.br
+stape.lp.assegura.com.br
 stape.lp.biossegurancasemstress.com.br
 stape.lp.caveo.com.br
 stape.lp.fausp.edu.br
@@ -163110,6 +163129,7 @@ stape.motomecanica.com.br
 stape.movepark.co
 stape.mpqplastics.com.au
 stape.mudancasmonica.com.br
+stape.mudancastucuruvi.com.br
 stape.multise.com.br
 stape.mumzymart.com
 stape.mundodadoula.com.br
@@ -164884,6 +164904,7 @@ static.premiumads.com.br
 static.pressizeteam.com
 static.prime-bid.com
 static.prod.martech.cbssports.cloud
+static.pronivydigital.com
 static.proxibid.com
 static.ptqy.gitv.tv
 static.pushe.co
@@ -167503,7 +167524,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -170565,6 +170585,7 @@ tags.holosameryky.com
 tags.huurwoningen.com
 tags.huurwoningen.nl
 tags.idelreal.org
+tags.igeo.com.bo
 tags.imagin.com
 tags.insforge.dev
 tags.insidevoa.com
@@ -173858,7 +173879,6 @@ tjluxury3.com
 tjmchkmpqfszj.online
 tjme.io
 tjmsqsemqyshc.website
-tjmucsni.com
 tjn.abmelder.de
 tjn.abmelder24.de
 tjn.austrittausderkirche.de
@@ -182007,7 +182027,6 @@ uapi.ads.oppomobile.com
 uapi.gravitec.net
 uapi.pandors.vip
 uapkagxacexij.online
-uapps.click
 uaqcui.tennis-point.fr
 uarating.com
 uarjf.rockyboots.com
@@ -184273,6 +184292,7 @@ userneeds.dk
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -192653,7 +192673,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
