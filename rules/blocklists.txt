@@ -770,6 +770,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1mp.mobi
 1mpi.com
@@ -9403,6 +9404,7 @@ adpia.vn
 adpia130611.adpinfo.com
 adpic.chinadaily.com.cn
 adpick.co.kr
+adpicker.net
 adpickup-east.adhaven.com
 adpickup-prod.adhaven.com
 adpicmedia.net
@@ -10040,6 +10042,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -12366,7 +12369,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -15059,6 +15061,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfile.me
@@ -17803,7 +17806,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18190,6 +18192,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -19481,7 +19484,6 @@ api.browser.intl.miui.com
 api.brs.intl.miui.com
 api.brunoacosta.com
 api.brutalkill.com.br
-api.bslacademy.com.br
 api.btloader.com
 api.bttrack.com
 api.bugsee.com
@@ -22284,7 +22286,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -30571,7 +30572,6 @@ bzs.mybluehost.me
 bzsfvi.fnacpro.com
 bztzpzqpltlad.site
 bzudd.casper.com
-bzuifguapodmcs.com
 bzulm.loveamika.com
 bzux-protect.pro
 bzv.mybluehost.me
@@ -33547,7 +33547,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33649,6 +33648,7 @@ cdn.webpush.jp
 cdn.webpushr.com
 cdn.welcome.pussysaga.com
 cdn.wheelio-app.com
+cdn.whitellllshop.icu
 cdn.wiztube.xyz
 cdn.wootric.com
 cdn.wshareit.com
@@ -39974,7 +39974,6 @@ cphdb.kutfromthekloth.com
 cphyd.carlyjeanlosangeles.com
 cpi.adflex.vn
 cpi.mybluehost.me
-cpi.nqproduct.com
 cpiac.particleformen.com
 cpiai.victoriassecret.com
 cpihrinfo.cpihr.com
@@ -46356,6 +46355,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -50754,7 +50754,6 @@ dkskbu.demae-can.com
 dktjigphteqdi.site
 dktr03lf4tq7h.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
-dkvesauf.com
 dkvtbjavjme96.cloudfront.net
 dkvvwq.aosom.ca
 dkyp75kj7ldlr.cloudfront.net
@@ -51168,6 +51167,7 @@ dnsdl.org
 dnset.com
 dnsscan.shadowserver.org
 dnt-userreport.com
+dntds.shop
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
 dnutc.modularclosets.com
@@ -55754,7 +55754,6 @@ email.dacdb.net
 email.defisaver.com
 email.dev.business.deutsche-bank.de
 email.dev.news.deutsche-bank.de
-email.dev.news.norisbank.de
 email.dev.news.research.db.com
 email.devbusiness.deutsche-bank.de
 email.devinvestmentbank.db.com
@@ -56842,6 +56841,7 @@ ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -61073,7 +61073,6 @@ findav.org
 findbetterresults.com
 findcalculator.com
 findclicksaveopen.monster
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -65268,6 +65267,7 @@ get.ukg.in
 get.ukg.mx
 get.ukg.nl
 get.venmo.com
+get.whitelllshop.icu
 get.xclick24.com
 get2.fun
 get35.com
@@ -71514,7 +71514,6 @@ gtm.worldee.com
 gtm.worldsprings.com
 gtm.wotan3d.com.br
 gtm.wplugin.com.br
-gtm.wrainy.com.br
 gtm.wudpecker.io
 gtm.www.lepetsante.com.br
 gtm.www.outletsolidarioss.com.br
@@ -99280,7 +99279,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -100531,7 +100529,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -109089,6 +109086,7 @@ newadserver.com
 newagerevenue.com
 newandfresh.com
 newarkdriving.com
+newbeginning.info
 newbie.com
 newbiquge.org
 newbluetrue.xyz
@@ -111338,6 +111336,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -117043,6 +117042,7 @@ outspueandean.qpon
 outstanding-purpose.pro
 outstanding-window.com
 outstandingfrailabroad.com
+outstandingspread.com
 outster.com
 outstream-telemetry.wemass.com
 outstreamoctober.store
@@ -122621,7 +122621,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -123007,7 +123006,6 @@ prayratesantibiotic.com
 praystakeinstinct.com
 prbii.rugs-direct.com
 prbn.ru
-prbvchpcepjxh.com
 prbxckwtajncq.space
 prcappzone.intel.com
 prchecker.info
@@ -124581,7 +124579,6 @@ ptdeokzscoubs.site
 pteemsolrirgegi.com
 ptekuwiny.pro
 ptelastaxo.com
-pteleaspiring.top
 ptelj.loveshackfancy.com
 ptengine.cn
 ptengine.com
@@ -130258,6 +130255,7 @@ rbquj0i95f.cfd
 rbrxg.com
 rbrzcu.green-acres.gr
 rbs.tt.omtrdc.net
+rbs.whitellllshop.icu
 rbsfckgfwpgnr.site
 rbsifiqnyrhfd.space
 rbsiwzkxqrfkw.site
@@ -135912,7 +135910,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -150600,7 +150597,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -157570,6 +157566,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -168416,7 +168413,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swell080227.shop
@@ -171966,6 +171962,7 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdtc.shop
 tdtfga.healingpinesrecovery.com
 tdum.alibaba.com
@@ -175127,6 +175124,7 @@ tornsteeringmimic.com
 tornvoiduneven.com
 toroa.merchnow.com
 toroadvertising.com
+toroexoclk.com
 torogoz.optimumketo.nl
 toronto-content.cresa.com
 torontoeyeassociates.com
@@ -192800,6 +192798,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -193747,7 +193746,6 @@ www.liveperson.com
 www.liveprivates.com
 www.livestats.fr
 www.livewell.net
-www.lkqd.net
 www.load.stape.drafernandapsiquiatra.com.br
 www.localytics.com
 www.logly.co.jp
