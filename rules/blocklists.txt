@@ -1451,6 +1451,7 @@
 3600.com
 360ads.com
 360adshost.com
+360caffe.shop
 360degreesprojects.com
 360dianjing.agrantsem.com
 360fenxi.mediav.com
@@ -10053,6 +10054,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15074,7 +15076,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -16054,6 +16055,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -18838,7 +18840,6 @@ antresboing.qpon
 antrumshoboe.cfd
 ants.vn
 antsomi.com
-antv.com
 antventure.com
 antvoice.com
 antwort.hager.de
@@ -21296,6 +21297,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -22302,7 +22304,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -33703,7 +33704,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -35983,7 +35983,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickmsummer.com
@@ -37936,6 +37935,7 @@ colourfulplayerperspective.com
 colourmingle.com
 colourrobot.com
 colpwoofell.qpon
+colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -40747,7 +40747,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -51949,7 +51948,6 @@ drawlercreases.cfd
 drawnbinary.com
 drawncooler.com
 drawnlygordius.cyou
-drbbzzs.xyz
 drbccw04ifva6.cloudfront.net
 drbids.com
 drbsliemurknv.website
@@ -61168,6 +61166,7 @@ findav.net
 findav.org
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -64302,6 +64301,7 @@ galaksion.com
 galapeequoniam.qpon
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
+galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
@@ -83198,6 +83198,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -83474,7 +83475,6 @@ jrvfzsfiaxpya.space
 jrvhmxnfzczll.online
 jrvrkzrjrmoyy.top
 jrvrkzrjrmyyj.top
-jrvyrnzspkt.com
 jrwbwckkpjjud.website
 jrxrit.europcar.de
 jrybwitdqjjuo.store
@@ -99413,6 +99413,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -107293,7 +107294,6 @@ mutterschokervivary.qpon
 mutualdocs.com
 muu.mybluehost.me
 muure.jordancraig.com
-muuxrbdsheuhg.space
 muvmobile.com
 muwmedia.com
 muwyib.lettuce.co.jp
@@ -117399,7 +117399,6 @@ owxjmqrzgzyou.site
 owxpzlhikjoyj.store
 owxsolpqxqyiy.space
 owywlwjvvkcjc.site
-owzniiafv.com
 owzpc.lionbeddenshop.nl
 ox-d.adclixx.net
 ox-d.adtrackers.net
@@ -117930,7 +117929,6 @@ paas-push-api-log.immomo.com
 paau5a33k.com
 pabc.chartbeat.net
 pabgey.siepomaga.pl
-pabidding.io
 pac.talksport.com
 pac.the-sun.com
 pac.thescottishsun.co.uk
@@ -118000,7 +117998,6 @@ pafpaf.com
 pafpro.artlist.io
 pafutos.com
 pafvertizing.crazygames.com
-pag.qdwght.com
 page-checker.eu
 page-events-ustats.udemy.com
 page-events.exorigos.com
@@ -144481,7 +144478,6 @@ sgtm.dorotheum.com
 sgtm.doshiva.com
 sgtm.dotstech.com
 sgtm.doubleneat.com
-sgtm.doutorepoxy.com.br
 sgtm.dpmanual.com
 sgtm.dradaianacoelho.com.br
 sgtm.drambroziak.com
@@ -150766,7 +150762,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -157740,7 +157735,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -163595,7 +163590,6 @@ stape.perfumedeester.com.br
 stape.persianasecortinasbarra.com.br
 stape.persianasjk.com.br
 stape.persimmon.life
-stape.personamark.com.br
 stape.pessoaeditora.com.br
 stape.petdoors.com
 stape.petguiabrasil.com.br
@@ -166591,7 +166585,6 @@ stentorsilane.cyou
 step.dk
 step.vrsn.co
 stepcattle.com
-stepe.soulderma.com.br
 stepioserver.citicrow.com
 stepladder10.top
 stepmedieval.com
@@ -167813,7 +167806,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -180176,6 +180168,7 @@ tripsthorpelemonade.com
 triptease.io
 trissinted.com
 tristatemyo.com
+trisul.org
 trisunshine.com
 tritebadge.com
 tritethunder.com
@@ -182617,7 +182610,6 @@ udtnjdhtdb.com
 udvgpkmn.vertextech-eg.com
 udwaporb.screenplayer.ai
 udxsuy.helline.fr
-udxsva.com
 udzpel.com
 udzsgk.myclassico.com
 udzucw.haggar.com
@@ -187707,7 +187699,6 @@ vkcdnservice.appspot.com
 vkcdnservice.com
 vkctxy.yves-rocher.fi
 vkdenxezhjhgg.site
-vkdgbpuvm.com
 vkdgzr.ennergiia.com
 vkdqiijvnljek.online
 vkdrvsfxomtxw.space
@@ -187936,7 +187927,6 @@ vnet.cn
 vnexpresss.com
 vnfmgenxtrmcv.online
 vnhonri2c.michaels.com
-vniddlg.xyz
 vnijzahxlejop.website
 vnikitskom.ru
 vnkzpvmaximaz.website
@@ -188576,6 +188566,7 @@ vv.7vid.net
 vv.ai
 vv.video.qq.com
 vv4t0gqaa4.com
+vv84.bj.bcebos.com
 vvaaol.enuygun.com
 vvaervdbcntvs.online
 vvapi.org
@@ -192982,6 +192973,7 @@ www.a-ads.com
 www.a0b11.com
 www.a0c77.com
 www.a8.net
+www.aafanke.cc
 www.abbyychina.com
 www.abc-tax.jp
 www.abovede6.com
