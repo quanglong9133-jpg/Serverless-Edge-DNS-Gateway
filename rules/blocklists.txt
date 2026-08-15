@@ -7731,7 +7731,6 @@ ad0.haynet.com
 ad01.mediacorpsingapore.com
 ad01.tmgrup.com.tr
 ad1.adfarm1.adition.com
-ad1.arixo.shop
 ad1.bigmir.net
 ad1.doublepimp.com
 ad1.emule-project.org
@@ -7763,7 +7762,6 @@ ad2-trafficgate-net.gslb.rdcnw.net
 ad2.360yield.com
 ad2.adfarm1.adition.com
 ad2.apx.appier.net
-ad2.arixo.shop
 ad2.bannerhost.ru
 ad2.bloggerads.net
 ad2.cdns.turn.com
@@ -7807,7 +7805,6 @@ ad2iction.com
 ad2the.net
 ad3.adfarm1.adition.com
 ad3.apx.appier.net
-ad3.arixo.shop
 ad3.cross-a.net
 ad3.doublepimp.com
 ad3.eu
@@ -7820,7 +7817,6 @@ ad360.vn
 ad380.com
 ad3g.com
 ad4.adfarm1.adition.com
-ad4.arixo.shop
 ad4.bigmir.net
 ad4.com.cn
 ad4.on.cc
@@ -9987,6 +9983,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15077,7 +15074,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -18206,7 +18202,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -21298,7 +21293,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -25177,6 +25171,7 @@ banner.techarp.com
 banner.testberichte.de
 banner.thadaco.vn
 banner.themediaplanets.com
+banner.titan-dsl.de
 banner.tmgrup.com.tr
 banner.tp24.it
 banner.trangvangvietnam.com
@@ -33705,6 +33700,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -40740,6 +40736,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -46402,7 +46399,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -61158,6 +61154,7 @@ findav.org
 findbetterresults.com
 findcalculator.com
 findclicksaveopen.monster
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -64372,7 +64369,6 @@ gameball.co
 gamebassadors.network
 gamebol.com
 gameboost.cafe24.com
-gamecall.ru
 gamecetera.com
 gameday-stories-ads.mlb.com
 gamedock.io
@@ -65431,7 +65427,6 @@ getlasso.co
 getletterpress.com
 getlocalmeasure.com
 getmackeepersoftpro.xyz
-getmacos.org
 getmailcounter.com
 getmatchedlocally.com
 getme.akupanelgigant.nl
@@ -68057,7 +68052,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 grid-bidder.criteo.com
@@ -100651,7 +100645,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -122775,6 +122768,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -135550,6 +135544,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -136057,7 +136052,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -150751,7 +150745,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -157721,7 +157714,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -199004,7 +198996,6 @@ yuztrvzsjtfgo.space
 yuzzon.qpon
 yvbird.sonitech.jp
 yvcjyi.beymen.com
-yvczmaqsiywheh.com
 yvdaeg.on-running.com
 yvdb.cn
 yvdfmcmebhove.website
@@ -200726,6 +200717,7 @@ zs.voyage-prive.com
 zs1.cnzz.com
 zs10.cnzz.com
 zs11.cnzz.com
+zs12.cnzz.com
 zs13.cnzz.com
 zs14.cnzz.com
 zs15.cnzz.com
